@@ -1,7 +1,8 @@
 # Spirit Engine
+
 **THIS PAGE IS ONLY FOR THE RELEASES!!
 TO GET THE DEVELOPMENT VERSION, USE THIS LINK:
-[Spirit Engine Development](https://github.com/DaRubyMiner360/Spirit-Engine-Development)
+[Spirit Engine Development](https://github.com/DaRubyMiner360/Spirit-Engine-Development).
 JUST REMEMBER THAT THE DEVELOPMENT VERSION MIGHT HAVE MANY MORE BUGS THAN THIS VERSION!!
 DON'T SAY I DIDN'T WARN YOU!**
 
