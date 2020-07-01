@@ -16,6 +16,10 @@ Visual Studio 2017 or 2019 is recommended, Spirit Engine is officially untested 
 
 You can clone the repository to a local destination using git:
 
+`git clone --recursive https://github.com/DaRubyMiner360/Spirit-Engine`
+
+You can also clone the development repository to a local destination using git:
+
 `git clone --recursive https://github.com/DaRubyMiner360/Spirit-Engine-Development`
 
 Make sure that you do a `--recursive` clone to fetch all of the submodules!
