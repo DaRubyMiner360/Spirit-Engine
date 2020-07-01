@@ -21,7 +21,7 @@ You can clone the repository to a local destination using git:
 Make sure that you do a `--recursive` clone to fetch all of the submodules!
 
 ## The Plan
-The plan for Spirit Engine is two-fold: to create a powerful 3D engine.
+The plan for Spirit Engine is two-fold: to create a powerful 2D and 3D engine.
 
 ### Main features to come:
 - Fast 2D rendering (UI, particles, sprites, etc.)
@@ -34,3 +34,4 @@ The plan for Spirit Engine is two-fold: to create a powerful 3D engine.
 - Procedural terrain and world generation
 - Artificial Intelligence
 - Audio system
+- An official IDE that can be used in the engine
