@@ -37,5 +37,4 @@ The plan for Spirit Engine is two-fold: to create a powerful 2D and 3D engine.
 - Integrated 3rd party 2D and 3D physics engine
 - Procedural terrain and world generation
 - Artificial Intelligence
-- Audio system
 - An official IDE that can be used in the engine
