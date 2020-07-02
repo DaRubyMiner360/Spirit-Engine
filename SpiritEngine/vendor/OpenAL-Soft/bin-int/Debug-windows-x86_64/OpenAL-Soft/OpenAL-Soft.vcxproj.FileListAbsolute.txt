@@ -1,0 +1,2 @@
+C:\Users\Robert\Desktop\Code\Game Engines\SpiritEngine\SpiritEngine\vendor\OpenAL-Soft\bin\Debug-windows-x86_64\OpenAL-Soft\OpenAL-Soft.pdb
+C:\Users\Robert\Desktop\Code\Game Engines\SpiritEngine\SpiritEngine\vendor\OpenAL-Soft\bin-int\Debug-windows-x86_64\OpenAL-Soft\OpenAL-Soft.pdb

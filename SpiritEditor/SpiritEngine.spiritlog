@@ -1,0 +1,37 @@
+[17:42:59] [info] SPIRIT ENGINE: Creating window Spirit Engine (1280, 720)
+[17:42:59] [info] SPIRIT ENGINE: Starting Spirit Editor
+[17:42:59] [info] SPIRIT ENGINE: Creating Scene View
+[17:42:59] [info] SPIRIT ENGINE: Creating Game View
+[17:42:59] [info] SPIRIT ENGINE: Finding User Preferences
+[17:42:59] [info] SPIRIT ENGINE: Injecting User Preferences
+[17:42:59] [info] SPIRIT ENGINE: Launching Spirit Editor
+[17:43:01] [info] SPIRIT ENGINE: OpenGL Info:
+[17:43:01] [info] SPIRIT ENGINE:   Vendor: Intel
+[17:43:01] [info] SPIRIT ENGINE:   Renderer: Intel(R) UHD Graphics 620
+[17:43:01] [info] SPIRIT ENGINE:   Version: 4.6.0 - Build 26.20.100.7263
+[17:43:17] [info] APP: [Spirit Audio] Audio Device Info:
+[17:43:17] [info] APP: [Spirit Audio]   Name: OpenAL Soft on Speaker / Headphone (Realtek(R) Audio)
+[17:43:17] [info] APP: [Spirit Audio] Ђпаэч
+[17:43:17] [info] APP: [Spirit Audio] ion may assume that this parameter is a unique reference to this argument
+[17:43:17] [info] APP: [Spirit Audio] s parameter is a unique reference to this argument
+[17:43:17] [info] APP: [Spirit Audio]    Stereo: 
+[17:43:18] [info] APP: [Spirit Audio]   File Info - assets/audio/BackgroundMusic.spiritaudio:
+[17:43:18] [info] APP: [Spirit Audio]   Channels: 2
+[17:43:18] [info] APP: [Spirit Audio]   Sample Rate: 44100
+[17:43:18] [info] APP: [Spirit Audio]   Size: 6723072 bytes
+[17:43:18] [info] APP: [Spirit Audio]   Length: 0m34s
+[17:43:18] [info] APP: [Spirit Audio]   File Info - assets/audio/BackgroundMusic.spiritaudio:
+[17:43:18] [info] APP: [Spirit Audio]   Channels: 2
+[17:43:18] [info] APP: [Spirit Audio]   Sample Rate: 44100
+[17:43:18] [info] APP: [Spirit Audio]   Size: 6723072 bytes
+[17:43:18] [info] APP: [Spirit Audio]   Length: 0m34s
+[17:43:18] [info] APP: [Spirit Audio]   File Info - assets/audio/BackgroundMusic.mp3:
+[17:43:18] [info] APP: [Spirit Audio]   Channels: -858993460
+[17:43:18] [info] APP: [Spirit Audio]   Sample Rate: -858993460
+[17:43:18] [info] APP: [Spirit Audio]   Size: 2576980376 bytes
+[17:43:18] [info] APP: [Spirit Audio]   Length: 0m0s
+[17:43:18] [info] APP: [Spirit Audio]   File Info - assets/audio/BackgroundMusic.wav:
+[17:43:18] [info] APP: [Spirit Audio]   Channels: -858993460
+[17:43:18] [info] APP: [Spirit Audio]   Sample Rate: -858993460
+[17:43:18] [info] APP: [Spirit Audio]   Size: 2576980376 bytes
+[17:43:18] [info] APP: [Spirit Audio]   Length: 0m0s

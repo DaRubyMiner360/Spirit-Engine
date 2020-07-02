@@ -1,0 +1,2 @@
+C:\Users\Robert\Desktop\Code\Game Engines\SpiritEngine\SpiritEngine\vendor\libogg\bin\Debug-windows-x86_64\libogg\libogg.pdb
+C:\Users\Robert\Desktop\Code\Game Engines\SpiritEngine\SpiritEngine\vendor\libogg\bin-int\Debug-windows-x86_64\libogg\libogg.pdb

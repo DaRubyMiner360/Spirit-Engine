@@ -1,0 +1,2 @@
+C:\Users\Robert\Desktop\Code\Game Engines\SpiritEngine\SpiritEngine\vendor\Vorbis\bin\Debug-windows-x86_64\Vorbis\Vorbis.pdb
+C:\Users\Robert\Desktop\Code\Game Engines\SpiritEngine\SpiritEngine\vendor\Vorbis\bin-int\Debug-windows-x86_64\Vorbis\Vorbis.pdb

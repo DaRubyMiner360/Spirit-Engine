@@ -1,0 +1,16 @@
+[submodule "SpiritEngine/vendor/spdlog"]
+	path = SpiritEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+	branch = v1.x
+[submodule "SpiritEngine/vendor/GLFW"]
+	path = SpiritEngine/vendor/GLFW
+	url = https://github.com/TheCherno/glfw
+	branch = master
+[submodule "SpiritEngine/vendor/imgui"]
+	path = SpiritEngine/vendor/imgui
+	url = https://github.com/TheCherno/imgui
+	branch = docking
+[submodule "SpiritEngine/vendor/glm"]
+	path = SpiritEngine/vendor/glm
+	url = https://github.com/g-truc/glm
+	branch = master
